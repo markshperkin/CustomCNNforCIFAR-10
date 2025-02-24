@@ -1,5 +1,5 @@
 
-# Custom CNN for the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset
+# Custom CNN for the CIFAR-10 dataset
 
 ## Overview
 In this project, I designed a convolutional neural network inspired by the [VGG](https://arxiv.org/abs/1409.1556) architecture for classifying 32x32 images into 10 different categories from The [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. Additionally, I participated in a Kaggle competition where the final score was determined by dividing the **average accuracy by the average latency**, making it crucial to optimize both accuracy and inference speed. I have finished third.
