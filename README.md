@@ -41,5 +41,6 @@ python .\test.py
 
 ## Class Project
 
-This project was developed as part of the Edge Neumorphic computing class under the instruction of [Professor Ramtin Zand](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/zand.php) at the University of South Carolina.
+This project was developed as part of the Edge Neumorphic computing class under the instruction of [Professor Ramtin Zand](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/zand.php) and Teacher assistant [Peyton Chandarana](https://www.peytonsc.com/) at the University of South Carolina.
+
 
